@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "quote": "Success is built one step at a time.",
+    "authorId": 1,
+    "category": "Success",
+    "tags": ["success","discipline","growth"],
+    "year": "",
+    "source": "Original"
+  },
+  {
+    "id": 2,
+    "quote": "The future depends on what you do today.",
+    "authorId": 2,
+    "category": "Motivation",
+    "tags": ["future","action","responsibility"],
+    "year": "",
+    "source": "Speech"
+  },
+  {
+    "id": 3,
+    "quote": "Be the change that you wish to see in the world.",
+    "authorId": 2,
+    "category": "Leadership",
+    "tags": ["change","leadership","inspiration"],
+    "year": "",
+    "source": "Speech"
+  }
+]
